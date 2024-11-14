@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:regular,500,600,700,800,900');
+@import url("https://fonts.googleapis.com/css?family=Roboto:700");
+@import url('https://fonts.googleapis.com/css2?family=Seymour+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inter:500');
+
+
+@font-face {
+    font-family: 'Seymour One';
+    src: url('../fonts/SeymourOne.woff2') format('woff2'),
+        url('../fonts/SeymourOne.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+
+
+/*.icon {
+    padding-bottom: 0.88rem;
+}
+
+.icon-parcing,
+.icon-stopwatch,
+.icon-rest {
+    mix-blend-mode: multiply;
+}  */

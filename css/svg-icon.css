@@ -1,0 +1,34 @@
+.icon-logo {
+    width: 3.75rem;
+    height: 4.0625rem;
+    justify-self: start;
+    align-items: flex-start;
+}
+
+.icon-shirt-right {
+    width: 0.75rem;
+    height: 0.75rem;
+}
+
+.icon-burger {}
+
+.icon-dotted {
+    width: 75rem;
+    height: 24rem;
+}
+
+.icon-smile {
+    display: flex;
+    width: 23.997rem;
+    height: 25.702rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.icon-strech {
+    width: 2.5rem;
+    height: 1rem;
+    cursor: pointer;
+}
